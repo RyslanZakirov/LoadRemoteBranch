@@ -7,3 +7,7 @@ class One{
 class Two{
     constructor(){}
 }
+
+class Three{
+    constructor(){}
+}
